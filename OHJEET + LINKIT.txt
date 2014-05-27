@@ -1,0 +1,34 @@
+Eli, ajattelin jos muutkin haluaisivat/voisivat tehdä aseita toimivaksi TTT servulle.
+Tässä hommassa ei juuri ihmeellisemmin tarvitse scriptailla .lua tiedostoja. Toki osittaisesta .lua tuntemuksesta olisi hyötyä, mutta
+riittää, että on kärsivällinen ja laittaa kaikki tarvittavat .lua tiedostoihin ja jos apua tarvitsee, niin kysyy esim. minulta.
+Tästä kansiosta, jonka toivon mukaan lataat/latasit löytyy ak47- , mac10- ja eilen tekemäni m4 silenced:n .lua tiedostot + KATSO "badking" linkki kohta 3.1!!!
+
+Aluksi, mitä tarvitset;
+
+1. Ehdottomasti Notepad++, sillä olen tehnyt kaikki gmod luat ja muokkaukset. Päihittää Wintoosan padin mennentullen, ja on oikein hyvä myös 
+perus koodaamiseen.
+Latauslinkki: http://notepad-plus-plus.org/download/v6.6.3.html
+
+2. GmadExtractor. Aluksi kun olet löytänyt hyvän TTT aseen (tai sandbox aseen (minkä käännät TTT aseeksi)),
+esim. http://steamcommunity.com/sharedfiles/filedetails/?id=136775988
+2.1 Tilaat kyseisen addonin (muista pistää minulle linkki heti alkajaisiksi, ettei unohdu. Minun täytyy mahdollisesti jotain lisätä myös serverin puolelle.)
+2.2 Käynnistät Gmodin. Käynnistyksen yhteydessä peli lataa addonin. -> Suljet Gmodin.
+2.3 Käynnistät GmanExtractorin.
+2.4 Navigoit ohjelmalla Gmod kansiosi addon -kansioon. Minun tapauksessani se olisi;
+"G:\Steam\SteamApps\common\GarrysMod\garrysmod\addons"
+2.5 Muokkauspäivämäärän mukaan ylimpänä on lataamasi addon. Avaat GmodExtractorilla addonin ja purat johonkin sen, esim. teet työpöydälle kansion.
+
+3. Sitten alkaa se "vaativin" ja hermoja raastavin osuus.
+3.1 Suosittelen katsomaan ensin tämän sivun ja sivun ohjeet. "http://ttt.badking.net/custom-weapon-guide"
+3.2 Jos tästä ei aukene, katso ak47 (T-shop ase) / m4 silenced (dec-shop ase) / mac10 (yleisesti spawnaantuva ase)
+3.3 Määrittele päässäsi haluatko tehdä aseesta vain T / Dec -aseen vai yleisesti spawnaantuvan. Kaikki käy, mutta eniten tarvittaisiin Dec ja yleisiä aseita.
+
+4. Kun olet valmis, kerro siitä minulle ja lähetä esim. skypen, githubin tai jonkun muun pilvi/jakopalvelun kautta se minulle, niin lisään sen servulle
+testattavaksi.
+
+Loppusanat + neuvo
++ Katsele ohjeet ja .lua tiedostot ja ala samalla hääräämään. Notepad++:ssa voit vetää erilleen avaamasi tiedostot, klikkaamalla tiedoston yläpalkista
+ja vetämällä sen esim. työpöydän päälle.
++ Hyödyllinen youtube video; "http://youtu.be/fQEZ7uMS8fM"
++ Jos jokin vaivaa, älä epäröi kysyä ja kannustan todellakin tekemään. Yksinään tämä on suht perseestä, mutta jos muutkin haluavat tehdä, niin esitän
+kyllä kiitokseni. :) (Y)
